@@ -1,0 +1,23 @@
+{
+  "name": "git-gdi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdidetroit/git-GDI.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdidetroit/git-GDI/issues"
+  },
+  "homepage": "https://github.com/gdidetroit/git-GDI#readme"
+}
