@@ -1,4 +1,4 @@
-##  Add ssh key to github
+##  Add ssh key to GitHub
 
 - From the `SSH keys` panel, click `new SSH key`.
 

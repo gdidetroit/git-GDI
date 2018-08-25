@@ -1,5 +1,5 @@
-##git & github
+##Git & GitHub
 ---
 First things first:
 
-`git !== github`
+`Git !== GitHub`

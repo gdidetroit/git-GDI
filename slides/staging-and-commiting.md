@@ -4,7 +4,7 @@ So why stage AND commit? It seems redundant, right?
 
 <br>
 
-This is part of git's philosophy that source control should stay out of your way until you're ready to deal with it.
+This is part of Git's philosophy that source control should stay out of your way until you're ready to deal with it.
 
 <br>
 

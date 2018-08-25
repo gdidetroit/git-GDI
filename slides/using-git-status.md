@@ -1,6 +1,6 @@
 ##  using git status
 
-You can check the status of your repo to see that git can see all the files in the project but they are not being currently tracked.
+You can check the status of your repo to see that Git can see all the files in the project but they are not currently being tracked.
 <!-- .element: class="align-left" -->
 
 <br/>

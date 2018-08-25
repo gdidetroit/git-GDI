@@ -1,6 +1,6 @@
-##  Add ssh key to github
+##  Add ssh key to GitHub
 
-Now that we have an SSH Key on our computer we need to tell Github about it.
+Now that we have an SSH Key on our computer we need to tell GitHub about it.
 
 First let's copy our SSH key into our clipboard.
 

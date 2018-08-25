@@ -1,11 +1,11 @@
-### James York
+### Aisha Blake
 
 - Work:
-  - Front End Instructor: Grand Circus Detroit
-  - Developer: [OnStar, Nexient, DTE]
+  - Application Developer: Detroit Labs
 - Community:
-  - Organizer: Detroit Craftsman Guild
-- Speaker: [Code Mash, Self Conference]
+  - Organizer: Detroit Speakers in Tech
+  - Chapter Leader: GDI Detroit
+- Speaker: all of the conferences
 - Contact:
-  - Twitter: **@kroysemaj**
-  - email: kroysemaj@gmail.com
+  - Twitter: **@AishaBlake**
+  - email: aisha@girldevelopit.com

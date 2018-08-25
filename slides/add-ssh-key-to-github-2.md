@@ -1,5 +1,5 @@
-##  Add ssh key to github
+##  Add ssh key to GitHub
 
 Now, in your browser, click on your profile pick and select `Settings` from the drop down.
 
-![Github Settings](images/GithubSettings.png)
+![GitHub Settings](images/GithubSettings.png)

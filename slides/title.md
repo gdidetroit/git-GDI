@@ -1,8 +1,8 @@
-![GDI Badge](images/gdi/ann-arbor/gdi_logo_badge.png)
+![GDI Badge](images/gdi/detroit/gdi-mi-sticker.png)
 <!-- .element: class="img--bare" -->
 
 
-### Git, Github & the Terminal
+### Git, GitHub & the Terminal
 <!-- ---
 ####An afternoon jaunt down Version Control Lane
  -->

@@ -9,4 +9,4 @@
 1. Do a final pull to make sure you have everyone's file from your team and you are totally up to date.
 <br>
 
-#### Congratulations, you are collaborating via Github!
+#### Congratulations, you are collaborating via GitHub!

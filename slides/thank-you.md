@@ -2,9 +2,9 @@
 ---
 Contact Info
 
-*James York*
+*Aisha Blake*
 
-- twitter: @kroysemaj
-- email: kroysemaj@gmail.com
-- github: kroysemaj
+- twitter: @AishaBlake
+- email: aisha@girldevelopit.com
+- GitHub: AishaBlake
 

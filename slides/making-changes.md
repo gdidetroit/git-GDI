@@ -1,6 +1,6 @@
 ##  making changes
 
-Now that git is tracking our file. We can make changes to it and git will notice.
+Now that Git is tracking our file. We can make changes to it and Git will notice.
 
 <br>
 
@@ -10,7 +10,7 @@ In your text editor, change `helloWorld.js` then save:
 
 <p class='terminal'><code>helloWorld.js</code></p>
 ```javascript
-var name = 'Jimmmy';
+var name = 'Jimmy';
 
 console.log('Hello ' + name);
 ```

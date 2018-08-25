@@ -1,6 +1,6 @@
 ##  creating a new repo
 
-Now that we are ready to start using git, we need a project to use it on. We wil create all the files and folders we need using the command line.
+Now that we are ready to start using Git, we need a project to use it on. We will create all the files and folders we need using the command line.
 <!-- .element: class="align-left" -->
 
 

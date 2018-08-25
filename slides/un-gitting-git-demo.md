@@ -1,6 +1,6 @@
 ##  de-gitting git-demo
 
-We're going to remove the `.git` folder to demonstrate how to create a git repo from scratch and add it to github
+We're going to remove the `.git` folder to demonstrate how to create a Git repo from scratch and add it to GitHub
 
 <br>
 

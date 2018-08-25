@@ -1,5 +1,5 @@
 
-# Git, Github & the Terminal, oh my!
+# Git, GitHub & the Terminal, oh my!
 
 ##An afternoon jaunt down Version Control Lane
 ---

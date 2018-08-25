@@ -1,7 +1,7 @@
 ##  using git add
 
 
-To add a new file to your git repo, you would
+To add a new file to your Git repo, you would
 use the command
 
 git add &lt;filepath&gt;

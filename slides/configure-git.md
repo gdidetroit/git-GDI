@@ -1,7 +1,7 @@
-##  configure git
+##  configure Git
 
-First let's set some config options for git
-These will tell git what details to use on the commits we make.
+First, let's set some config options for Git.
+These will tell Git what details to use on the commits we make.
 
 <br/>
 

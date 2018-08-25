@@ -16,6 +16,6 @@
     - Undoing changes before staging
     - Undoing changes before commiting
   4. Remote repos
-    - Setting up a github repo
+    - Setting up a GitHub repo
     - Pushing to same
     - Pulling from same

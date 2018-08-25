@@ -1,6 +1,6 @@
 ##  first push
 
-We will actually make use of two new commands here, one of which we will cover, another we will not. Fortunately github gives us these two commands for free.
+We will actually make use of two new commands here, one of which we will cover, another we will not. Fortunately, GitHub gives us these two commands for free.
 
 <br>
 

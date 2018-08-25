@@ -1,4 +1,4 @@
-##  Make a github profile
+##  Make a GitHub profile
 
 If you haven't already, go to github.com and create a new account
 <!-- .element: class="align-left"  -->

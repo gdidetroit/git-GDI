@@ -1,4 +1,4 @@
-##  Part I: git basics
+##  Part I: Git basics
 
 1. Create a repo - `git init`
 2. Check status - `git status`

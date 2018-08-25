@@ -1,10 +1,10 @@
-##  download git
+##  download Git
 
 If you haven't already, go to
 
 [http://git-scm.com/download](http://git-scm.com/download)
 
-Choose your platform and install git
+Choose your platform and install Git
 
 <br>
 
